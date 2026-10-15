@@ -83,6 +83,6 @@ const arcadeConfig = ArcadeConfig(
   fallDown: false,
   tip1Id: 'fuzzballflingbrownie',
   tip2Id: 'fuzzballflingcandy',
-  tip1Label: '💛 Buy me a brownie',
-  tip2Label: '💛 Buy me a candy',
+  tip1Label: '💛 Fuzz Ball Fling — Brownie tip',
+  tip2Label: '💛 Fuzz Ball Fling — Candy tip',
 );
